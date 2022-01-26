@@ -22,3 +22,8 @@ span{
 #galeria img:hover{
     border: 5px #fff solid;
 }
+
+#pie{
+    width: 100%;
+    text-align: center;
+}
